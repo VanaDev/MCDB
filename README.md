@@ -1,2 +1,2 @@
 # MCDB
-Code and data related to converting tree-structured data into database format.
+Converts MapleStory-formatted data into a database format.
